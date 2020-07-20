@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 Welcome! My name is Michael- I am a ✨ Developer ✨
 
 A little more about me…
@@ -11,5 +10,3 @@ const michael = {
             },
             currentProject: "I am developing my personal website/blog",
         };
-
--->
