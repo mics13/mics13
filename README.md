@@ -1,8 +1,8 @@
-### Hi there 👋
+### Welcome to my page 👋
 
-Welcome! My name is Michael- I am a ✨ Developer ✨
+My name is Michael- I am a ✨ Developer ✨ I soak my brain in codes :computer:
 
-A little more about me…
+Here is a little more about me…
 
 ```javascript
 const michael = {
