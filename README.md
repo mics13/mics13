@@ -7,7 +7,7 @@ Here is a little more about me…
 ```javascript
 const michael = {
     pronouns: "He" | "Him",
-    tech: ["Python", "SQLite", "Django", "Javascript", "CSS", "HTML", "Bootstrap"],
+    tech: ["Python", "Flask", "Flask-SQLAlchemy", "Django", "Javascript", "CSS", "HTML", "Bootstrap 4"],
     askMeAbout: ["web dev", "music", "Soccer"],
     currentProject: "I am developing my personal website/blog",
 }
