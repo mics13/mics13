@@ -9,6 +9,6 @@ const michael = {
     pronouns: "He" | "Him",
     tech: ["Python", "Flask", "Flask-SQLAlchemy", "Django", "Javascript", "CSS", "HTML", "Bootstrap 4"],
     askMeAbout: ["web dev", "music", "Soccer"],
-    currentProject: "I am developing my personal website/blog",
+    currentProject: "portfolio, cs50w",
 }
 ```
